@@ -1,0 +1,13 @@
+{
+    "name": "luciano/projeto-final",
+    "description": "Este projeto é o trabalho final pedido na disciplina de php",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "LucianoLaurentino",
+            "email": "lucianolaurents@gmail.com"
+        }
+    ],
+    "require": {}
+}

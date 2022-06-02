@@ -1,0 +1,68 @@
+.nav-wrapper{
+    background-color: rgb(52, 52, 52);
+}
+.page-footer-fixed{
+    background-color: rgb(52, 52, 52);
+}
+.partyitens{
+    border: 2px solid black;
+    background-color: rgb(182, 135, 240);
+    margin: 10px;
+    
+}
+label{
+    color: black;
+    font-weight: bold;
+}
+h5{
+    color: black;
+    font-weight: bold;
+}
+.nameClient{
+    padding-left: 15px;
+    width: 600px;
+}
+.email{
+    padding-left: 15px;
+    width: 600px;
+}
+.safety{
+    padding-left: 15px;
+}
+.inviteInput{
+    width: 100px;
+}
+.buffet{
+    padding-left: 15px;
+}
+.deco{
+    padding-left: 15px;
+}
+.dj{
+    padding-left: 15px;
+}
+.waiter{
+    padding-left: 15px;
+}
+.barman{
+    padding-left: 15px;
+}
+.invites{
+    padding-left: 15px;
+    width: 600px;
+}
+.clean{
+    padding-left: 15px;
+}
+body{
+    background-color: rgb(99, 51, 99);
+}
+.titleorc{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+.button{
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
